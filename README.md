@@ -1,3 +1,3 @@
 # DSA-Practical
-#NITJ Data Science Analytics Lab Experiments 
+#NITJ Data Science Analytics Lab Practical
 #Submitted by -Mohit Lohani
